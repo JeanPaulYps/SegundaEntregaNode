@@ -1,0 +1,15 @@
+{
+  "name": "SegundaEntregaNodeJS",
+  "version": "1.0.1",
+  "description": "Implementacion de historias de usuario en la segunda entrega ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Paul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "hbs": "^4.0.3"
+  }
+}
